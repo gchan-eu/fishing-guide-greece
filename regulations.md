@@ -49,6 +49,8 @@
 | Φαγκρί (Pagrus pagrus) | 18 cm |
 | Ροφός (Epinephelus spp.) | 45 cm |
 | Σφυρίδα (Epinephelus aeneus) | 45 cm |
+| Ζαργάνα (Belone belone) | 20 cm |
+| Λούτσος (Sphyraena sphyraena) | 30 cm |
 
 ### Κεφαλόποδα
 
