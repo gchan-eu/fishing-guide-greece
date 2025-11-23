@@ -890,7 +890,7 @@
 2. **Τεχνική:**
    - Waggler
    - Roach pole
-- Ανταγωνισμοί
+   - Ανταγωνισμοί
 
 3. **Εξειδίκευση:**
    - Συγκεκριμένα ψάρια
@@ -927,6 +927,10 @@
 
 **Για περισσότερες πληροφορίες, δείτε:**
 - [Κύριος Οδηγός Ψαρέματος](fishing-guide.md)
+- [Surf Casting](surf-casting.md)
+- [Spinning](spinning.md)
 - [Bolognese](bolognese.md)
+- [Ψάρεμα από Βράχους](rock-fishing.md)
 - [Οδηγός Εξοπλισμού](equipment-guide.md)
+- [Εποχιακό Ημερολόγιο](seasonal-calendar.md)
 - [Κανονισμοί](regulations.md)

@@ -803,8 +803,10 @@
 
 **Για περισσότερες πληροφορίες, δείτε:**
 - [Κύριος Οδηγός Ψαρέματος](fishing-guide.md)
-- [Οδηγός Εξοπλισμού](equipment-guide.md)
 - [Surf Casting](surf-casting.md)
 - [Spinning](spinning.md)
 - [Bolognese](bolognese.md)
+- [Ψάρεμα με Πλωτήρα](float-fishing.md)
+- [Οδηγός Εξοπλισμού](equipment-guide.md)
+- [Εποχιακό Ημερολόγιο](seasonal-calendar.md)
 - [Κανονισμοί](regulations.md)
